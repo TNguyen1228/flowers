@@ -20,6 +20,17 @@ body {
   perspective: 1000px;
 }
 
+.womens-day-text {
+  position: fixed;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    color: #FF69B4; /* Bright pink color */
+    font-size: 5em;
+    padding: 20px 0;
+    font-family: 'Great Vibes', cursive; /* Beautiful font */
+    z-index: 1000; /* Ensures the text stays on top */
+}
 
 .night {
   position: fixed;

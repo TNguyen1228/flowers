@@ -19,12 +19,7 @@ body {
   overflow: hidden;
   perspective: 1000px;
 }
-.message {
-            font-family: 'Brush Script MT', cursive;
-            font-size: 48px;
-            color: #d84e85;
-            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
-        }
+
 
 .night {
   position: fixed;

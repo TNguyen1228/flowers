@@ -19,6 +19,21 @@ body {
   overflow: hidden;
   perspective: 1000px;
 }
+.message {
+  position: fixed;
+  top: 140px; /* Adjust this value to control spacing below the celebration line */
+  width: 100%;
+  text-align: center;
+  
+  z-index: 999;
+}
+
+.message p {
+  font-size: 2.5em;
+  color: white;
+  margin-bottom: 20px;
+  font-family: 'Great Vibes', cursive; /* Beautiful font */
+}
 
 .womens-day-text {
   position: fixed;

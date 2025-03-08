@@ -34,7 +34,7 @@ body {
   margin-bottom: 20px;
   font-family: 'Great Vibes', cursive; /* Beautiful font */
 }
-.message p2 {
+.message span {
   font-size: 4em;
   color: white;
   margin-bottom: 20px;
